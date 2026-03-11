@@ -16,6 +16,8 @@ Key analysis tasks include:
 
 - Generating a business report and presentation
 
+![Project_Workflow](Project_Workflow.png)
+
 ## Dataset
 
 The dataset contains customer transaction records including demographic details, purchase behavior, product categories, and customer feedback.
