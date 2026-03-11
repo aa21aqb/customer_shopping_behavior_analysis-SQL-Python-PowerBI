@@ -1,62 +1,20 @@
 # Customer Shopping Behavior Analysis 
 
-## Overview
+## 📌 Project Overview
+The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
-This project analyzes customer shopping behavior using a retail dataset to identify purchasing patterns, customer demographics, and product trends. The goal is to transform raw transactional data into meaningful insights that can support business decision-making.
+✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
 
-The project demonstrates a complete data analytics workflow, including data cleaning, exploratory data analysis, SQL-based querying, dashboard visualization, and business reporting.
+✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
 
-Key analysis tasks include:
+✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
-- Data exploration and cleaning using Python
-
-- Analytical queries using SQL
-
-- Interactive dashboard creation using Power BI
-
-- Generating a business report and presentation
+✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
 ![Project_Workflow](Project_Workflow.png)
 
-## Dataset
-
-The dataset contains customer transaction records including demographic details, purchase behavior, product categories, and customer feedback.
-
-Key Features
-
-- Customer demographics (Age, Gender, Location)
-
-- Product information (Item Purchased, Category, Size, Color)
-
-- Purchase details (Purchase Amount, Season, Shipping Type)
-
-- Customer behavior indicators (Previous Purchases, Frequency of Purchases)
-
-- Marketing indicators (Discount Applied, Promo Code Used)
-
-- Customer satisfaction (Review Rating)
-
-- Subscription status
-
-The dataset is used to analyze customer spending patterns and identify insights for improving business strategies.
-
-## Tools & Technologies
-
-This project uses multiple tools commonly used in data analytics:
-
-- **Python** – Data loading, cleaning, and exploratory data analysis
-
-- **Pandas** / NumPy / Matplotlib / Seaborn – Data manipulation and visualization
-
-- **SQL** (PostgreSQL / MySQL / SQL Server) – Data querying and analysis
-
-- **Power BI** – Interactive dashboard creation
-
-- **Gamma** – Presentation generation
-
-- **GitHub** – Project version control and documentation
-
 ## Project Steps
+
  1. **Data Loading**
 
 The dataset was imported into Python using Pandas for initial inspection and processing.
@@ -117,35 +75,7 @@ The Power BI dashboard provides interactive visualizations to explore customer b
 
 ![Dashboard](Power_BI.png)
 
-Dashboard highlights include:
 
-- Revenue distribution by gender
-
-- Spending patterns by age group
-
-- Top products by rating
-
-- Subscription vs non-subscription comparison
-
-- Product category revenue analysis
-
-The dashboard enables stakeholders to quickly identify trends and patterns in customer purchasing behavior.
-
-## Key Results
-
-The analysis produced several insights:
-
-- Customers aged 25–34 contributed the highest revenue
-
-- Subscribers tend to spend more than non-subscribers
-
-- Express shipping customers show higher purchase values
-
-- Certain products rely heavily on discount-based purchases
-
-- Customer purchase frequency strongly correlates with subscription status
-
-These insights can help businesses improve marketing strategies, customer retention, and product offerings.
 
 ## How to Run the Project
 1. **Clone the Repository**
