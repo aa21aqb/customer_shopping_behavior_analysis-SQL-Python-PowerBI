@@ -1,15 +1,20 @@
 # Customer Shopping Behavior Analysis 
 
 ## 📌 Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+This project analyzes customer shopping behavior using a retail dataset to identify purchasing patterns, customer demographics, and product trends. The goal is to transform raw transactional data into meaningful insights that can support business decision-making.
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+The project demonstrates a complete data analytics workflow, including data cleaning, exploratory data analysis, SQL-based querying, dashboard visualization, and business reporting.
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+Key analysis tasks include:
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+✅ Data exploration and cleaning using Python
+
+✅ Analytical queries using SQL
+
+✅ Interactive dashboard creation using Power BI
+
+✅ Generating a business report and presentation
 
 ![Project_Workflow](Project_Workflow.png)
 
